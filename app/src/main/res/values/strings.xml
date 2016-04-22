@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="app_details">Scan complete.</string>
+    <string name="avg_heading">AVERAGE FILE SIZE:</string>
+    <string name="large_heading">10 LARGEST FILES:</string>
+    <string name="freq_heading">5 FREQUENT FILE EXTENSIONS:</string>
+    <string name="action_settings">Stop</string>
+</resources>
